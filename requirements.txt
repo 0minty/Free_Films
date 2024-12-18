@@ -1,0 +1,6 @@
+aiogram
+aiosqlite
+lxml
+requests
+pytz
+beautifulsoup4
